@@ -6,9 +6,7 @@ Video-review (eng subs): [https://www.youtube.com/watch?v=0OP9QHYOksM](https://w
 
 Project forum: [http://hack4sec.pro/forum/viewforum.php?f=5](http://hack4sec.pro/forum/viewforum.php?f=5)
 
-Docs en [http://hack4sec.pro/wiki/index.php/Hash_Brute_Station_en](http://hack4sec.pro/wiki/index.php/Hash_Brute_Station_en)
-
-Docs ru [http://hack4sec.pro/wiki/index.php/Hash_Brute_Station](http://hack4sec.pro/wiki/index.php/Hash_Brute_Station)
+Docs EN/RU: see wiki
 
 # Authors
 Anton Kuzmin (anton.kuzmin.russia@gmail.com) [http://anton-kuzmin.ru](http://anton-kuzmin.ru) (ru) [http://anton-kuzmin.pro](http://anton-kuzmin.pro) (en)
