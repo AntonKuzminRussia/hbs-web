@@ -4,8 +4,6 @@ Hash Brute Station (HBS) — soft for remote control hash cracking processes on 
 # Links
 Video-review (eng subs): [https://www.youtube.com/watch?v=0OP9QHYOksM](https://www.youtube.com/watch?v=0OP9QHYOksM)
 
-Project forum: [http://hack4sec.pro/forum/viewforum.php?f=5](http://hack4sec.pro/forum/viewforum.php?f=5)
-
 Docs EN/RU: see wiki
 
 # Authors
